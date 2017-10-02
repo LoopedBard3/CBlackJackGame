@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\CProgram5BasicSinglePlayerBlackJack.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\CProgram5BasicSinglePlayerBlackJack.dir/objects.a @CMakeFiles\CProgram5BasicSinglePlayerBlackJack.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CProgram5BasicSinglePlayerBlackJack.dir/objects.a -Wl,--no-whole-archive  -o CProgram5BasicSinglePlayerBlackJack.exe -Wl,--out-implib,libCProgram5BasicSinglePlayerBlackJack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CProgram5BasicSinglePlayerBlackJack.dir\linklibs.rsp

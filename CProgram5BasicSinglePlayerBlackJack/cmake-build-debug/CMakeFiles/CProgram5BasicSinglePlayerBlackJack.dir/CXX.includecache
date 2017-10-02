@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pbibu/Desktop/Programs for CPRE/CProgram5BasicSinglePlayerBlackJack/main.cpp
+iostream
+-
+sys/time.h
+-
+

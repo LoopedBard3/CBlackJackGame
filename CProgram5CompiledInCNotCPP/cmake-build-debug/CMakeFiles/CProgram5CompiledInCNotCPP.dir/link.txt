@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\CProgram5CompiledInCNotCPP.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\CProgram5CompiledInCNotCPP.dir/objects.a @CMakeFiles\CProgram5CompiledInCNotCPP.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\CProgram5CompiledInCNotCPP.dir/objects.a -Wl,--no-whole-archive  -o CProgram5CompiledInCNotCPP.exe -Wl,--out-implib,libCProgram5CompiledInCNotCPP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CProgram5CompiledInCNotCPP.dir\linklibs.rsp

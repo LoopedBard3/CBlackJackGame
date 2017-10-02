@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pbibu/Desktop/Programs for CPRE/CProgram5CompiledInCNotCPP/main.c
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+
